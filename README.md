@@ -1,4 +1,4 @@
-#MINT-NFT-ETH
+## MINT-NFT-ETH
 
 Connect your metamask with Rinkeby ETH testnet and you're good to go!!
 
